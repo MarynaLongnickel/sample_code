@@ -1,4 +1,3 @@
-pp_forms_log.py
 from utils import get_secret, get_rs_conn, get_mysql_client, get_session, get_logger, get_webhook, send_slack_notification
 import multiprocessing as mp
 import os
