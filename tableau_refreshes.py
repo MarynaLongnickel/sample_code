@@ -1,4 +1,3 @@
-tableau_refreshes.py
 from datetime import datetime, timezone, timedelta, time
 import tableauserverclient as TSC
 import pandas as pd
